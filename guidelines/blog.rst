@@ -4,6 +4,6 @@ Guidelines
 ------
 
 - Blog post should be clear. Double verify data, important dates, discount codes and links.
-- Team of three is advised for blog posts. One volunteer for purely reviewing the content and two volunteers for writing blog post.
-- Blog post should be proof read by reviewer. Blog posts are shared in social media, any smallest mistake will be widley criticized and spoils the brand.
+- A team of three is advised for blog posts. One volunteer for purely reviewing the content and two volunteers for writing the blog post.
+- Blog post should be proof readable by reviewer. Blog posts have been shared in social media, any smallest mistake will be widley criticized and spoils the brand.
 - There is no limit on number of words in a blog post.
