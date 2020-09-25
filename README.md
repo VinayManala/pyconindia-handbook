@@ -11,7 +11,7 @@ Contribution guidelines:
 - Guidelines should contain high level steps, practices etc ...
 - When a new guideline is annexed, add a link under `Guidelines` section in this file.
 - While sending a pull request, add your name under `Acknowledgement` section.
-- Guidelines can written in `markdown` or `restructured text`.
+- Guidelines can be written in `markdown` or `restructured text`.
 
 Guidelines:
 ----------
